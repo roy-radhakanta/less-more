@@ -1,0 +1,16 @@
+
+#seeLess,
+#seeMore{
+    width:10rem;
+   
+}
+
+a {
+    color: #1a87c8;
+    text-decoration: none;
+    font-size: 19px;
+    font-weight: 600;
+}
+#seeLess{
+        display: none;
+    }
